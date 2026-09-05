@@ -1,0 +1,7 @@
+venv/
+data/survey_results_public.csv
+data/clean_data.csv
+data/features_ready.csv
+__pycache__/
+*.pkl
+.vscode/
